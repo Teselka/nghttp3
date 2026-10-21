@@ -1,0 +1,2 @@
+option('debug_output', type: 'boolean', value: false, description: 'Turn on debug output')
+option('examples', type: 'boolean', value: false, description: 'Enable examples')
