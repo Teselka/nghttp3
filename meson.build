@@ -4,7 +4,7 @@ project(
     default_options: [
         'b_ndebug=true'
     ],
-    version: '1.15.0',
+    version: '1.18.0',
     meson_version: '>=1.1.0'
 )
 
